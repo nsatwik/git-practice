@@ -1,0 +1,9 @@
+[submodule "friday"]
+	path = friday
+	url = https://github.com/nsatwik/friday.git
+[submodule "practice-project"]
+	path = practice-project
+	url = https://github.com/nsatwik/practice-project.git
+[submodule "Project-piet"]
+	path = Project-piet
+	url = https://github.com/nsatwik/Project-piet.git
